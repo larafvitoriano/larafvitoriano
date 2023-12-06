@@ -1,4 +1,4 @@
-## Welcome (˶˃ ᵕ ˂˶)♡
+## Welcome ^^
 
 I'm Lara, a 24 yo junior Front-End developer from Brazil. 
 I hold a degree in Software Analysis and Development from Centro Universitário Vale do Salgado - UNIVS. 
