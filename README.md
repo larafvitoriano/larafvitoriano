@@ -18,5 +18,4 @@ Beyond coding, I'm a hobbyist cosplayer, a dedicated full-time nerd, and always 
 ## Social media
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larafernanda/)](https://www.linkedin.com/in/larafernanda/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/larafvitoriano/)](https://www.instagram.com/larafvitoriano/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/larafvitoriano/)](https://www.twitter.com/larafvitoriano)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/larafvitori/)](https://www.twitter.com/larafvitori)
