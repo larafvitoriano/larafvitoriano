@@ -1,21 +1,19 @@
-## 🌸 Welcome 🌸
+## Bem-vindo! ようこそ 🖤
 
-I'm Lara, a 24 yo junior Front-End developer from Brazil. 
-I hold a degree in Software Analysis and Development from Centro Universitário Vale do Salgado - UNIVS. 
-Currently, I'm engaged in Front-end studies at Alura.
+🎓 Sobre mim
+Graduado em Análise e Desenvolvimento de Sistemas - UNIVS;
+Atualmente cursando Pós-Graduação Lato Sensu em Desenvolvimento Fullstack - UFRN;
 
-I'm looking forward to embarking on my first professional experience as a Front-end developer.
 
-Beyond coding, I'm a hobbyist cosplayer, a dedicated full-time nerd, and always fueled by curiosity. I also love cats 🐱
-
-| <a href="https://github.com/larafvitoriano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=larafvitoriano&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Lara's github stats" /></a> | <a href="https://github.com/larafvitoriano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larafvitoriano&layout=compact&theme=synthwave&hide_border=true" /></a> |
+| <a href="https://github.com/larafvitoriano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=larafvitoriano&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Lara's github stats" /></a> | <a href="https://github.com/larafvitoriano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larafvitoriano&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 ## Social media
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larafernanda/)](https://www.linkedin.com/in/larafernanda/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/larafvitori/)](https://www.twitter.com/larafvitori)
