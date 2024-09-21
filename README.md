@@ -1,8 +1,7 @@
-## Bem-vindo! ようこそ 🖤
+## Em construção.
 
-🎓 Sobre mim
-Graduado em Análise e Desenvolvimento de Sistemas - UNIVS;
-Atualmente cursando Pós-Graduação Lato Sensu em Desenvolvimento Fullstack - UFRN;
+
+
 
 
 | <a href="https://github.com/larafvitoriano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=larafvitoriano&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="Lara's github stats" /></a> | <a href="https://github.com/larafvitoriano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larafvitoriano&layout=compact&theme=tokyonight&hide_border=true" /></a> |
